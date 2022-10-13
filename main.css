@@ -1,0 +1,64 @@
+body {
+  padding: 1rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.main_display {
+  text-align: center;
+}
+
+.main_display img {
+  width: 12em;
+  border-radius: 100%;
+}
+
+.bus_name {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 2.5em;
+}
+
+.slogan {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.5em;
+}
+
+.main_display p {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+.no01 {
+  font-size: 2em;
+}
+
+.social_contact_details img {
+  width: 4em;
+  margin-right: 1.5em;
+}
+
+address {
+  margin-top: 1em;
+  font-size: 1.3em;
+}
+
+.social_contact_details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.social_media {
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.social_media span {
+  font-weight: bold;
+  margin-right: 1em;
+  font-size: 1.3em;
+}
